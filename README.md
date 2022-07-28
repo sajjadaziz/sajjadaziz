@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sajjad Aziz
 - 👀 I’m interested in Programming.
-- 🌱 I’m currently learning computer vision and machine learning.
+- 🌱 I’m currently learning data science and machine learning.
 - 📫 How to reach me azizmsajjad@gmail.com
 
 <!---
